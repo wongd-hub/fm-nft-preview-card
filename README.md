@@ -19,8 +19,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution & Live Site URL: [GitHub Pages](https://wongd-hub.github.io/fm-nft-preview-card/)
 
 ## My process
 
@@ -35,5 +34,3 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 - Website - [Darren W.](https://github.com/wongd-hub)
 - Frontend Mentor - [@wongd-hub](https://www.frontendmentor.io/profile/wongd-hub)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
